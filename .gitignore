@@ -1,0 +1,4 @@
+summon_lesser_env/*
+*.pyc
+*.swp
+config.ini
